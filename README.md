@@ -83,7 +83,7 @@ Experienced backend developer with **5+ years** building enterprise-grade applic
 ## 📫 Get In Touch
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihanafiqsiregar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raihan-afiq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raihan-afiq](https://www.linkedin.com/in/raihan-afiq-b7956a17b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihan09)
 
 📍 Bogor, Indonesia &nbsp;|&nbsp; 📱 +62 853-7024-8552
